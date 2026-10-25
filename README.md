@@ -52,7 +52,7 @@ git clone (https://github.com/movsisiannartem-hash/expanse-tracker.git)
 cd expense-tracker
 ```
 
-Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
+
 
 ## Commands
 
@@ -150,7 +150,7 @@ Building this project helped me practice:
 - Automated tests
 
 ---
-
+https://roadmap.sh/projects/expense-tracker
 <p align="center">
   <strong>Built with Python as a personal learning project.</strong>
 </p>
